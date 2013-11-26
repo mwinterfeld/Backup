@@ -1,0 +1,10 @@
+#define GL_GLEXT_PROTOTYPES
+#include <GL/glut.h>
+#include <stdlib.h>
+#include <iostream>
+#include <stdarg.h>
+#include <stdio.h>
+#include <math.h>
+#include "Player.h"
+#include "CSCIx229.h"
+#include "objects.h"
